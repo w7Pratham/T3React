@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/T3React/static/css/main.073c9b0a.css",
+    "main.js": "/T3React/static/js/main.095a5dea.js",
+    "static/js/787.818a4939.chunk.js": "/T3React/static/js/787.818a4939.chunk.js",
+    "index.html": "/T3React/index.html",
+    "main.073c9b0a.css.map": "/T3React/static/css/main.073c9b0a.css.map",
+    "main.095a5dea.js.map": "/T3React/static/js/main.095a5dea.js.map",
+    "787.818a4939.chunk.js.map": "/T3React/static/js/787.818a4939.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.095a5dea.js"
+  ]
+}
