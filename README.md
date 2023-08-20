@@ -6,7 +6,7 @@ This is a simple Tic Tac Toe game built using React. You can play the classic ga
 
 ## Play the Game
 
-You can play the game online by visiting the [GitHub Pages deployment](https://w7Pratham.github.io/T3React_project).
+You can play the game online by visiting the [GitHub Pages deployment](https://w7Pratham.github.io/T3React).
 
 ## Contributing
 
